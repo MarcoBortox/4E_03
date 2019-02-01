@@ -8,3 +8,7 @@ Esercizio di prima costruzione di un repository remoto
 * secondo item
 * terzo item
 
+###venerdì 01/02/19
+-Accoppiati github e colab con la chiave ssh
+-visualizzazione del file README.md su colab
+
