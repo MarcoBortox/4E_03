@@ -12,3 +12,4 @@ Esercizio di prima costruzione di un repository remoto
 * Accoppiati github e colab con la chiave ssh
 * visualizzazione del file README.md su colab
 
+Modifica con colab
