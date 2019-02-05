@@ -13,3 +13,6 @@ Esercizio di prima costruzione di un repository remoto
 * visualizzazione del file README.md su colab
 
 Modifica con colab
+
+### martedì 05/02/2019
+* seconda prova
