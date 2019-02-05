@@ -9,7 +9,7 @@ Esercizio di prima costruzione di un repository remoto
 * terzo item
 
 ### venerdì 01/02/19
-* Accoppiati github e colab con la chiave ssh
+* Accoppiati github e colab con la chiave pubblica ssh
 * visualizzazione del file README.md su colab
 
 Modifica con colab
